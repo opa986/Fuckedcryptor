@@ -1,0 +1,2 @@
+# Fuckedcryptor
+a ransomware
