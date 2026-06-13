@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Chave e arquivos gerados pelo ransomware
+*.key
+LEIA_SE_FUDEU.txt
+
+# Virtual environments
+venv/
